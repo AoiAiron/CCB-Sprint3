@@ -43,7 +43,7 @@ Caracteristicas de las criaturas:
 
 
 
-**Contrato Item.sol**
+**Contrato Items.sol**
 
 Permite mintear diferentes tipos de objetos: armas (NFT), armaduras (NFT) y pociones (Tokens Fungibles).
 SmartContract ERC 1155
