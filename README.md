@@ -1,13 +1,22 @@
-# Sample Hardhat Project
-
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
+# Nombre
 
 Try running some of the following tasks:
 
-```shell
-npx hardhat help
+```
+*Agregar OpenZeppelin Contracts*
+npm install @openzeppelin/contracts
+
+*Compilar*
+npx hardhat compile
+
+*Verificar test*
 npx hardhat test
-REPORT_GAS=true npx hardhat test
+
+*Inicial nodo local*
 npx hardhat node
-npx hardhat ignition deploy ./ignition/modules/Lock.js
+
+*Desplegar contrato en local*
+npx hardhat ignition deploy ./ignition/modules/creatures.js --network localhost
+npx hardhat ignition deploy ./ignition/modules/items.js --network localhost
+npx hardhat ignition deploy ./ignition/modules/battle.js --network localhost
 ```
