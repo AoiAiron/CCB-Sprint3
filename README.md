@@ -146,13 +146,17 @@ npx hardhat test
 
 
 # VERIFICACIONES CONTRATOS ETHERSCAN
-(aqui me falta desplegar los contratos en metamask y ver sus transacciones en etherscan)
 
+- **Creacion de contrato Creatures.sol:** (https://sepolia.etherscan.io/address/0xf573f03b385f17294cfb43144defb860f98cb639)
+- **Interacción con contrato( obtener criatura)** (https://sepolia.etherscan.io/tx/0xfb10a79df2fe665ade48c23fc2118a4b5bbe2e1ad6d502c04b986dc063633285)
 
+- **Creación contrato Items.sol:** (https://sepolia.etherscan.io/address/0x8faece2aec38ff45fa7ecd369db29c710de94ae6)
+- **Interacción con contrato:** (https://sepolia.etherscan.io/address/0x8faece2aec38ff45fa7ecd369db29c710de94ae6)
 
+- **Creación contrato Battle.sol:** (https://sepolia.etherscan.io/address/0x178fd18378d3b8877c353cb78a7e12dbb085b567)
+- **Interacción con contrato:** (https://sepolia.etherscan.io/tx/0x807ccad2a5cb217c941999e613fe5dac103081dca1e39822d15dcba23c52484b)
 
-
-
+# NO PUEDO VERIFICARLO EN ETHERSCAN (ERROR BYTECODE) y no encuentro el pluggin FLATTENER de Remix.
 
 ```
 *Agregar OpenZeppelin Contracts*
