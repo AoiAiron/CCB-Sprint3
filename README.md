@@ -144,7 +144,7 @@ Solo pudimos realizar el test de *creatures.sol* e *items.sol* en Hardhat, para 
 - **Interacción con contrato: (Equipar a creatura 2):** (https://sepolia.etherscan.io/tx/0xda5c00106d487e51900e3808bf68d79aba884a83b70596d2c1168bd6e4ceeaca)
 
 <a href="https://ibb.co/3k2xL0q"><img src="https://i.ibb.co/6NzKf4x/Screenshot-2024-10-22-113456.png" alt="Equipar-Event" border="0"></a>
-<a href="https://ibb.co/g7Jg0Vy"><img src="https://i.ibb.co/RScHXy2/Screenshot-2024-10-22-113520.png" alt="Batalla" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>gif iphone 8</a><br />
+<a href="https://ibb.co/g7Jg0Vy"><img src="https://i.ibb.co/RScHXy2/Screenshot-2024-10-22-113520.png" alt="Batalla" border="0"></a><br />
 
 ## Posibles Mejoras
 - Reducir los costes de gas ya sea disminuyendo el almacenamiento o empleando JSONs usando parte de la logica de manera externa.
